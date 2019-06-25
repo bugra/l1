@@ -11,7 +11,7 @@ setup(name='l1',
       packages=['l1'],
       install_requires=['pandas==0.24.2',
                         'cvxopt==1.2.3',
-                        'statsmodels==0.9.0',
+                        'statsmodels==0.10.0',
                         ]
 
      )
