@@ -10,7 +10,7 @@ setup(name='l1',
       url='bugra.github.io',
       packages=['l1'],
       install_requires=['pandas==0.25.3',
-                        'cvxopt==1.2.3',
+                        'cvxopt==1.2.4',
                         'statsmodels==0.10.2',
                         ]
 
