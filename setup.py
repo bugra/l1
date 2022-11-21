@@ -9,7 +9,7 @@ setup(name='l1',
       author_email='vbugra@gmail.com',
       url='bugra.github.io',
       packages=['l1'],
-      install_requires=['pandas==1.3.3',
+      install_requires=['pandas==1.5.1',
                         'cvxopt==1.2.6',
                         'statsmodels==0.13.5',
                         ]
